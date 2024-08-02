@@ -14,7 +14,6 @@ import com.google.firebase.database.ValueEventListener
 import com.pedromoura.chatdevspace.domain.model.Message
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
-import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
 import java.util.UUID
 
